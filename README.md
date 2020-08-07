@@ -25,7 +25,7 @@ Projeto desenvolvido durante o curso realizado pela **[@rocketseat](https://gith
 
 A proposta da aplicação Proffy é um projeto criado para servir de ligação entre alunos e professores. Sendo possível o aluno encontrar um professor desejado para estudar.
 
---- 
+
 
 ## => Tecnologias utilizadas
 
@@ -37,25 +37,3 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Node.js 
 - Nunjucks 
 - SQLite 
-
-
-
-## ⌨ Como executar o projeto
-
-```bash
-# Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
-
-# Entrar no diretório
-cd proffy-discovery
-
-# Baixar as dependências
-npm i
-
-# Executar o servidor
-npm run dev
-```
-
-Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
-
----
