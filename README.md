@@ -4,7 +4,7 @@
 
 ## => Índice
 
-- [Sobre](#Sobre)
+- [Sobre](#-Sobre)
 - [Preview](#-Preview)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 
