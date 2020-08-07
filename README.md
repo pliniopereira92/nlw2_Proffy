@@ -9,7 +9,7 @@
 - [Como executar o projeto](#-Como-executar-o-projeto)
 - [Preview](#-Preview)
 
----
+
 
 ## => Preview 
 
@@ -17,7 +17,7 @@
   <img src="https://ik.imagekit.io/pliniopereira92/pagina_inicial_proffy_WUQnWxf_I.jpg" width="700" >
 </p>
 
----
+
 
 ## => Sobre 
 
@@ -29,16 +29,16 @@ A proposta da aplicação Proffy é um projeto criado para servir de ligação e
 
 ## => Tecnologias utilizadas
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 - Node.js 
 - Nunjucks 
 - SQLite 
 
---- 
+
 
 ## ⌨ Como executar o projeto
 
